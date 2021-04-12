@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+E:\My Projects\ERS Project\.metadata\.plugins\org.eclipse.jdt.core
+1501100882.index
+3604675963.index
+2309646544.index
+4013699635.index
+1450853437.index
+2462030236.index
+1682905404.index
+3055496941.index
+1064877423.index
+366344422.index
+2851864833.index
+1761161207.index
+1710242187.index

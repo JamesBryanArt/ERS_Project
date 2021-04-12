@@ -1,0 +1,9 @@
+127.0.0.1 - - [08/Apr/2021:14:19:41 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:14:19:42 -0500] "GET /ERS_application/index.html HTTP/1.1" 200 961
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:14:19:55 -0500] "POST /ERS_application/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:14:19:55 -0500] "GET /ERS_application/AdminView HTTP/1.1" 200 2351
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:14:20:01 -0500] "GET /ERS_application/about HTTP/1.1" 200 1722
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:14:20:04 -0500] "GET /ERS_application/updateMyInfo HTTP/1.1" 200 2794
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:14:20:05 -0500] "GET /ERS_application/viewMyInfo HTTP/1.1" 200 3843
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:14:20:12 -0500] "GET /ERS_application/AdminView HTTP/1.1" 200 2351
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:14:20:16 -0500] "GET /ERS_application/viewMyInfo HTTP/1.1" 200 3843

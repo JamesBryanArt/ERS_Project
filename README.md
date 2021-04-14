@@ -40,7 +40,15 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
   ![image](https://user-images.githubusercontent.com/59074549/114732233-f8d56a80-9d07-11eb-9aa5-2843f1feab1f.png)
   -USER
   ![image](https://user-images.githubusercontent.com/59074549/114732330-0be83a80-9d08-11eb-8205-db8bc974742c.png)
-* From here both of the user can request reimbursement and view and update there info
+* From here both of the user can request reimbursement, view pending, and view resolved
+![image](https://user-images.githubusercontent.com/59074549/114733043-a0529d00-9d08-11eb-868e-92ea7e4375b2.png)
+![image](https://user-images.githubusercontent.com/59074549/114732823-74371c00-9d08-11eb-96d2-56b44a84fcbc.png)
+![image](https://user-images.githubusercontent.com/59074549/114732926-887b1900-9d08-11eb-9a52-e8a0dc3719b6.png)
+* Also a user can view and update their info
+![image](https://user-images.githubusercontent.com/59074549/114733262-d001a500-9d08-11eb-97a2-d42530738fa5.png)
+![image](https://user-images.githubusercontent.com/59074549/114733363-e14ab180-9d08-11eb-9498-bf2602b02534.png)
+![image](https://user-images.githubusercontent.com/59074549/114733436-ef98cd80-9d08-11eb-9cc5-f32316f280cf.png)
+* Admin can approve/deny, view individual/all pending reimbursement
 * Once done you can logout
 
 # **Contributors**

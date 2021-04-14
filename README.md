@@ -18,6 +18,9 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 # **Features**
 * Login as Admin
 * Login as Employee
+* 
+![image](https://user-images.githubusercontent.com/59074549/114730337-6385a680-9d06-11eb-924c-794113a1c177.png)
+
 * Request Reimbursement
 * View Information
 * View Employees
